@@ -1,0 +1,6 @@
+.vs/
+*.sln
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
