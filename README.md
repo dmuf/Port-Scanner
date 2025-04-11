@@ -88,6 +88,9 @@ Contributions are welcome! Feel free to fork the repository and create pull requ
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Screenshots📷
+![Port Scanner](https://github.com/user-attachments/assets/f2f41fe0-b072-418f-bc12-d12ab5c05025)
+![Port Scanner 2](https://github.com/user-attachments/assets/0bd41017-a631-4da6-af11-df4fe28ef55b)
+
 
 
 ---
